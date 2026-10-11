@@ -1,0 +1,6 @@
+{
+  "name": "R-Journal — Дневник Проп-Трейдера (XAU & ETH)",
+  "description": "Веб-дневник трейдера для анализа сделок по золоту (XAU/USD) и эфиру (ETH/USD), учета риск-менеджмента (1 RR = $60 от $10,000), поиска стратегий и контроля эмоций.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
